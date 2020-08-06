@@ -4,20 +4,7 @@ These are the codes that I used to prepare, process and analyze my data for my R
 "THE REBIRTH OF URBAN SUBCENTERS - How Subway Expansion Impacts the Spatial Structure and Mix of Amenities in European Cities"
 
 
-ABSTRACT: The mixture of consumer amenities is an essential determinant for the livability and 
-vibrancy of urban neighborhoods.  However, the factors impacting the location of consumer amenities 
-are poorly understood. In face of urban sprawl and corresponding metro expansion efforts in urban 
-outskirts, it is crucial to understand if metro expansion and the implicit accessibility improvement 
-have a decentralizing effect on the economic activities. Metro expansion projects in Europe’s diverse 
-cities, known for their strong public transport culture, offer an interesting setting for testing this 
-hypothesis in a cross-comparative study. Therefore, this paper assesses the impact of new metro station 
-openings on the multifunctional quality of neighborhoods with respects to their equipment with consumer 
-amenities in nine European cities between 2012 and 2018. To accurately capture this property, we propose 
-a new entropy-based measure of the Multifunctionality of a local Amenity Mix integrating the idea of 
-dissimilar diversity applied on the spatiotemporal amenity category dataset of Foursquare. Consequently, 
-the impact of a new metro station on the density, diversity and type of consumer amenities is tested using 
-Difference in Difference Regression and Propensity Score Matching. The study brings new insights into the 
-role of metro transit for the local amenity mix and the heterogeneity between different types of consumer 
-amenities.
+ABSTRACT: Why do some neighborhoods thrive, and others do not? While the importance of the local amenity mix has been established as a key determinant of local livability, its link to urban transport infrastructure remains understudied, partially due to a lack of data. Using spatiotemporal social media data from Foursquare, we analyze the impact of metro stations which opened between 2014 and 2017 on the amenity mix of surrounding neighborhoods in nine European cities: Rome, Milan, Barcelona, Budapest, Warsaw, Sofia, Vienna, Helsinki and Stuttgart. We study the impact of subway expansion on three properties of the local amenity mix: its density, multifunctionality, and the heterogeneity between amenity types. For this purpose, we propose a new measurement of multifunctionality, which calculates the entropy of the locally present amenity set incorporating the degree of similarity between amenity types. For causal inference, we use Spatial Difference-in-Difference Regression as well as Propensity Score Matching and Entropy Balancing. Our findings show that in most cities subway expansion significantly impacted local amenity density and multifunctionality and that especially Arts & Entertainment, Food venues and Nightlife respond strongly. Moreover, strong agglomeration forces seem to prevail, causing existing subcenters to benefit most from new metro stations.
 
+KEYWORDS: Subway Expansion, Location Theory, Consumer Amenities, Multifunctionality, Similarity-based Diversity, Spatiotemporal Analysis
 
