@@ -1,10 +1,5 @@
-# Master-Thesis
 
-Autor: Tabea Sonnenschein
-
-!! This is still work in progress !!
-
-These are the codes that I used to prepare, process and analyze my data for my Master Thesis Project:
+These are the codes that I used to prepare, process and analyze my data for my Research Project:
 
 "THE REBIRTH OF URBAN SUBCENTERS - How Subway Expansion Impacts the Spatial Structure and Mix of Amenities in European Cities"
 
