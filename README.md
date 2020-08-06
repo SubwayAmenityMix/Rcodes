@@ -1,5 +1,5 @@
 
-These are the codes that I used to prepare, process and analyze my data for my Research Project:
+These are the codes that were used to prepare, process and analyze my data for my Research Project:
 
 "THE REBIRTH OF URBAN SUBCENTERS - How Subway Expansion Impacts the Spatial Structure and Mix of Amenities in European Cities"
 
